@@ -2,6 +2,11 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 New to git? Follow the steps below to get comfortable making changes to the code base, opening up a pull request (PR), and merging code into the primary branch. Any important git and GitHub terms are in bold with links to the official git reference materials.
 
-*** amanda ***
+*** amanda did this ***
+*** George did that = Heres a conflict ***
 
 You've successfully made a PR and merged your code to the primary branch. Congratulations! If you'd like to dive deeper, check out these more advanced tutorials and resources:
+
+
+
+AMANDA LOVES SPAGHETTI
